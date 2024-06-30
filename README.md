@@ -7,7 +7,7 @@
 </h3>
 
 - 🌱 I’m currently studying Computer Engineering in UTFPR - Campus Curitiba
-- 🔭 And currently working as a Backend developer intern at SINQIA S.A
+- 🔭 And currently working as a Software engineer intern at SINQIA S.A
 
 
 
